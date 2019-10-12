@@ -1,6 +1,9 @@
-public class Hello{
-		public static void main(String[] arg)
-				{
-						system.out.print("Hello World");
-								}
-}
+class Hello 
+{ 
+    // Your program begins with a call to main(). 
+    // Prints "Hello, World" to the terminal window. 
+    public static void main(String args[]) 
+    { 
+        System.out.println("Hello World"); 
+    } 
+} 
